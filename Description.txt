@@ -1,0 +1,16 @@
+DESCRIPTION AND INFORMATION
+
+This project is meant to be a simulation of the coin exchange market,
+where coins are being bought and sold throughout the day by people 
+all over the world.
+
+The program allows users to buy or sell a certain amount of coins,
+and then the simulation runs to show the values of the coins changing
+throughout the day. The features of the coin exchange are built off 
+of loading a text file, using a hash table, using a queue, and more. 
+Then once the simulation is over, the results are shown to the user 
+so that they can find out if their transactions were good or not. 
+
+The complexity of the entire coin exchange is O(1) and at worst it
+would be O(n). 
+

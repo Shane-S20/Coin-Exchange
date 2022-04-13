@@ -1,0 +1,8 @@
+To use the coin exchange, first select if you would like to buy, sell,  or just
+let the simulation run without your transaction. If you choose to buy or sell
+coins, the exchange will then ask which of the 3 coins you would like to exchange. 
+The exchange then asks for the amount of coins they want to buy or sell.
+The simulation then runs to implement the random buying and selling of coins 
+that would happen in real life. Then the results of the simulation are printed,
+and the data is saved in the text file Coins.txt for the next time the user runs 
+the coin exchange. 
